@@ -15,16 +15,16 @@ Evaluations of European and Taiwanese case studies demonstrate that the proposed
 By addressing demand uncertainties and operational constraints, our predict-then-cluster framework provides actionable insights for optimizing real-time operations. The approach is adaptable to other on-demand platform-based city logistics and passenger mobility services, promoting sustainable and efficient urban operations.
 
 ## Research Description
+![image](https://github.com/user-attachments/assets/202ae13a-be9c-49b1-bd57-065bcd0cd440)
 
 This repository contains the implementation of the **Short-Term Predict-Then-Cluster Framework**, which includes:
-
 1. **Demand Prediction**: Utilizes ensemble-learning methods for accurate point and distributional forecasting of short-term demand using multivariate features and lagged-dependent inputs.
 2. **Dynamic Clustering**:
    - **Constrained K-Means Clustering (CKMC)**: Generates clusters based on predicted demand and user-defined constraints.
    - **CCHC-ICE**: Applies iterative constraint enforcement to form geographically contiguous clusters tailored to operational needs.
 3. **Simulation Study**: Demonstrates how short-term demand predictions can enhance real-time operations, such as idle fleet rebalancing, improving delivery efficiency and sustainability.
 
-![image](https://github.com/user-attachments/assets/202ae13a-be9c-49b1-bd57-065bcd0cd440)
+
 
 ## Instructions
 
