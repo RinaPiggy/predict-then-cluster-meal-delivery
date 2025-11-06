@@ -3,7 +3,7 @@
 This repository supports the research paper titled **A Short-Term Predict-Then-Cluster Framework for Meal Delivery Services**.  
 **Authors**: Jingyi Cheng and Shadi Sharif Azadeh*.  
 **Institute**: Transport and Planning, Delft University of Technology.  
-The manuscript is under review at _Transportation Research Part A: Policy and Practice_.
+This work has been accepted by Data Science for Transportation ([manuscript](https://link.springer.com/article/10.1007/s42421-025-00140-6)). This repository will be updated as soon as possible.
 
 ## Abstract:
 
